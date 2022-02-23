@@ -130,3 +130,8 @@ list-style: none;
     
 
 }
+
+iframe ,.pdf{
+	width: 90%;
+	height:80vh ;
+}
